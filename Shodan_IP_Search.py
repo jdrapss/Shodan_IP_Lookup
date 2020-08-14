@@ -10,7 +10,7 @@ import csv
 # import numpy as np
 
 # Configuration
-API_KEY = "SBnsRkcwfOvHXV3aooYdR8AjGfoe5OjS"
+API_KEY = "API KEY"
 #SEARCH_FOR = 'org:' % sys.argv[0])
 # Add argparse for cmd items such as -h for host, -r for reverse dns, -d for domain, etc
 def parseArguments():
